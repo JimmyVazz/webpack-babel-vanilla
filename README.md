@@ -22,7 +22,7 @@ To serve in the browser  - Runs webpack-dev-server
 $ npm start
 ```
 
-### Build
+### Build para producción
 Compilar y construir bundle
 
 ```sh
