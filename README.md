@@ -1,21 +1,21 @@
 # Babel Webpack Starter
 
-A starter pack to build JavaScript applications using standards from ES2015, ES2016 & ES2017. It uses webpack, Babel and webpack-dev-server to compile and serve. It is fully compatible with Async/Await as it uses the Babel polyfill.
+Ejemplo del uso de webpack y babel
 
 ### Version
 1.1.0
 
-## Usage
+## Uso
 
-### Installation
+### Instalación
 
-Install the dependencies
+Instalar las dependencias
 
 ```sh
 $ npm install
 ```
 
-### Serve
+### Servidor de desarollo
 To serve in the browser  - Runs webpack-dev-server
 
 ```sh
@@ -23,19 +23,8 @@ $ npm start
 ```
 
 ### Build
-Compile and build
+Compilar y construir bundle
 
 ```sh
 $ npm run build
 ```
-
-## More Info
-
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
-### License
-
-This project is licensed under the MIT License
